@@ -4,6 +4,9 @@ target/
 **/src/main/**/target/
 **/src/test/**/target/
 
+*.ignore
+
+
 ### STS ###
 .apt_generated
 .classpath
@@ -32,3 +35,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+
+##mvn
+*mvn*
+
